@@ -42,7 +42,8 @@ Ficamos em 2° Lugar na competição! Além de super aprendizado e verdadeira "c
 Aprendemos uma boa noção do que é programar em linguagem C na prática e ajustando funcionalidades que desepenharam estrategias na competição. Aprendemos sobre eletrônica e circuitos.
 
 ### Possíveis Melhorias
-Sugestões de melhorias para versões futuras ou aspectos que gostaria de otimizar.
+Percebemos durante a competição que o nosso carrinho de longe era que tinha mais torque, porém perdemos para um oponente que possuia um "raspador" mais arredondado en forma de "C" que levantava as rodas do carrinho fazendo perder tração. Nossa sugestão era o aprimoramento de nosso raspador para a melhor performance.
+.
 
 ## 8. Como Contribuir
 Estou aberto para novas ideias e se possivel novas sugestões de código. Fiquem a vontade para sugerir melhorias!
