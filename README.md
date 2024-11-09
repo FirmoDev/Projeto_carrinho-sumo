@@ -49,5 +49,6 @@ Estou aberto para novas ideias e se possivel novas sugestões de código. Fiquem
 
 ![Carrinho Sumô](/IMG_20240907_153011.jpg)
 
-
+### Documentação para mais detalhes
+[Documentação e regras para a competição](/Guia_de_Regras_e_Dicas_Robatalha_2024.docx)
 
