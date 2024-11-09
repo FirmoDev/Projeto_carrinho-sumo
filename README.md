@@ -1,4 +1,5 @@
 # Carrinho Sumô com Arduino
+![Carrinho Sumô](/IMG_20240913_164856.jpg)
 
 ## 1. Introdução
 O projeto carrinho sumô consiste em uma competição com todas as turmas da Instituição Senac Taboão SP. Os projetos serão aprensentados e competirão em uma Arena circular.
@@ -45,5 +46,8 @@ Sugestões de melhorias para versões futuras ou aspectos que gostaria de otimiz
 
 ## 8. Como Contribuir
 Estou aberto para novas ideias e se possivel novas sugestões de código. Fiquem a vontade para sugerir melhorias!
+
+![Carrinho Sumô](/IMG_20240907_153011.jpg)
+
 
 
