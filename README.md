@@ -2,7 +2,7 @@
 ![Carrinho Sumô](/IMG_20240913_164856.jpg)
 
 ## 1. Introdução
-O projeto carrinho sumô consiste em uma competição com todas as turmas da Instituição Senac Taboão SP. Os projetos serão aprensentados e competirão em uma Arena circular.
+O projeto carrinho sumô consiste em uma competição com todas as turmas da Instituição Senac Taboão SP. Os projetos serão apresentados e competirão em uma Arena circular.
 
 ### Objetivo do Projeto
 O objetivo da competição é propor um desafio para os alunos em um curto periodo de tempo e com poucos recursos para a construção do projeto. Visto queO robô que conseguirá empurrar o oponente para fora da arena vencerá a rodada.
